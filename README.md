@@ -1,3 +1,3 @@
 ﻿# js30
-JavaScript 30 days challenge
-Reference: https://javascript30.com/
+- JavaScript 30 days challenge
+- Reference: https://javascript30.com/
