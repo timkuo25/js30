@@ -1,0 +1,6 @@
+- Query selector may select elements using css selector syntax
+    - Attribute selector syntax: {selector}[{attribute_name}="{}"]
+- Handle unwanted keydown exceptiond
+- Set currentTime (attribute of interface HTMLMediaElement) to 0 to play multiple same audio
+- setTimeout is not recommended here since it affects transition
+    - Instead, use transition end event
