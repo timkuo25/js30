@@ -1,0 +1,1 @@
+- transition: register css properties
