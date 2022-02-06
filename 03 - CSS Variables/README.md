@@ -1,0 +1,8 @@
+- single colon in CSS: pseudo selector
+    - e.g. :root, :hover, :visited, :checked
+    - ref: https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+- CSS variable:
+    - selector defines the scope (common practice: :root)
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+- HTMLElement.dataset
+- Rest of the content: https://www.w3schools.com/css/css3_variables_javascript.asp
