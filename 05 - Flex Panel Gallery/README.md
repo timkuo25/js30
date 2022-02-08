@@ -1,0 +1,1 @@
+- Use arrow functions with this may cause issues, so stick with ES5 syntax here. 
