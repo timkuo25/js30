@@ -1,1 +1,4 @@
-- Use arrow functions with this may cause issues, so stick with ES5 syntax here. 
+- Use arrow functions with this may cause issues, so stick with ES5 syntax here.
+- (Update) Use e.currentTarget instead of e.target
+    - e.currentTarget is only available while the event is being handled. (So console.log() gives null)
+    - check event bubbling
