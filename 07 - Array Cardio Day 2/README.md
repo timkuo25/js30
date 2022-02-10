@@ -1,0 +1,2 @@
+- Array.prototype.splice({startIndex}, {numDelete}, {insertItem});
+    - no delete if numDelete <= 0;
