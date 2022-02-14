@@ -1,0 +1,1 @@
+- change toggle image whenever the video is played/paused
