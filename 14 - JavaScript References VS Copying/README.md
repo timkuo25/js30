@@ -1,0 +1,3 @@
+- Object.assign goes only 1 level deep.
+- JSON.stringify turns object into string
+- JSON.parse turns string into object
