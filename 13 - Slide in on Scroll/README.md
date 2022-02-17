@@ -1,0 +1,2 @@
+- debounce() is for limiting times function called
+- window.scrollY and window.innerHeight gives the current page latitude
