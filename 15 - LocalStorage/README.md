@@ -1,0 +1,3 @@
+- form is goint to reload the page by default
+    - e.preventDefault()
+- event delegation: parent listen event
