@@ -1,0 +1,3 @@
+- Array.from() or [...]
+- split() works just as in Python
+- May pass function reference into map
