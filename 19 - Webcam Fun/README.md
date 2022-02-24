@@ -1,0 +1,2 @@
+- Canvas context getImageData(): Get RGB data
+- document.createElement(), insertBefore()
