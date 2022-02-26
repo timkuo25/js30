@@ -1,0 +1,1 @@
+- make position fixed then it no longer take up place
