@@ -2,7 +2,7 @@ const holes = document.querySelectorAll('.hole');
 const scoreBoard = document.querySelector('.score');
 const moles = document.querySelectorAll('.mole');
 let lastHole;
-let timeup = false;
+let timeUp = false;
 let score = 0;
 
 const randomTime = (min, max) => {
@@ -27,7 +27,7 @@ const peep = () => {
 
     setTimeout(() => {
         hole.classList.remove('up');
-        if (!timeup) peep();
+        if (!timeUp) peep();
     }, time);
 }
 
